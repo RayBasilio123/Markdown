@@ -219,7 +219,7 @@ Para instalar essa lib rode
 ```
 <!-- Imagens - Gifs  -->
 
-Quick Chat for iOS is a real time chat app written in Swift 5 using Firebase.[ link para o repositorio ](https://github.com/aslanyanhaik/Quick-Chat "Quick Chat for iOS" )  
+[ link para o repositorio ](https://github.com/aslanyanhaik/Quick-Chat "Quick Chat for iOS" )  
 ```
 
 
