@@ -9,12 +9,12 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](##Sobre)
-   * [Sintaxe Básica](##Sintaxe_Básica)
+   * [Sintaxe Básica](#Sintaxe_Básica)
    * [Imagens e Diagramas](##Imagens_e_Diagramas)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-## Sintaxe Básica
+## Sintaxe_Básica
 <!-- Headings  -->
 
 ```
@@ -213,7 +213,7 @@ Para instalar essa lib rode
 
 [ link para algum lugar ](http://github.com "Github" ) 
 
-## Imagens e Diagramas
+## Imagens_e_Diagramas
 
 ```
 <!-- Imagens - Gifs  -->
