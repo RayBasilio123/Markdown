@@ -43,7 +43,7 @@
 
 <!-- Emphasis -->
 
-Você pode adicionar ênfase colocando o texto em negrito ou itálico.
+<!-- Você pode adicionar ênfase colocando o texto em negrito ou itálico.-->
 
 
 
@@ -141,7 +141,7 @@ _Itálico_
 
 Para instalar essa lib rode  `yarn install`
 ```
-como renderiza :
+
 
 Para instalar essa lib rode  `yarn install`
 
