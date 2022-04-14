@@ -41,34 +41,35 @@
 ```
 
 
-<!-- Enfasis -->
+<!-- Emphasis -->
 
-*Enfâse*
+Você pode adicionar ênfase colocando o texto em negrito ou itálico.
 
-<!-- Strong -->
+
+
+<!-- Negrito -->
 
 **Strong**
 
 <!-- Itáĺico -->
 
-_Strong_
+_Itáĺico_
 
+*Itáĺico*
 ***
 ```
 
 
-<!-- Enfasis -->
-
-*Enfâse*
-
-<!-- Strong -->
+<!-- Negrito -->
 
 **Strong**
 
 <!-- Itáĺico -->
 
-_Strong_
+_Itálico_
 
+*Itálico*
+***
 ```
 <!-- Lista Ordenada -->
 
