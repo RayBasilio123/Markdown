@@ -225,7 +225,7 @@ Quick Chat for iOS is a real time chat app written in Swift 5 using Firebase.[ l
 
 <!-- Imagens - Gifs  -->
 
-Quick Chat for iOS is a real time chat app written in Swift 5 using Firebase.[ link para o repositorio ](https://github.com/aslanyanhaik/Quick-Chat "Quick Chat for iOS" ) 
+[ link para do repositorio de onde foi retirado o gift](https://github.com/aslanyanhaik/Quick-Chat "Quick Chat for iOS" ) 
 
 ![ imagem qualquer ]( https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif )
 
