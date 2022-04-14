@@ -214,3 +214,22 @@ Quick Chat for iOS is a real time chat app written in Swift 5 using Firebase.[ l
 Quick Chat for iOS is a real time chat app written in Swift 5 using Firebase.[ link para o repositorio ](https://github.com/aslanyanhaik/Quick-Chat "Quick Chat for iOS" ) 
 
 ![ imagem qualquer ]( https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif )
+
+
+<!-- Graficos - Diagramas -->
+
+Para criar diagramas e visualizações usando texto e código utilizamos o [Mermaid](https://mermaid-js.github.io/mermaid/#/). Sucintamente o mermaid constitui em uma ferramenta de diagramação e gráficos baseada em Javascript que renderiza definições de texto inspiradas em Markdown para criar e modificar diagramas dinamicamente. Uma maneira para editar e criar diagramas de forma online é o [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVkE1qw0AMha8itEohvoAXhcZOsgmk0Ow8WQiPnBmS-WEsU4Ltu3ccU2i1kt77nhAasQ2ascRbomjgUisPuT6ayiTbi6P-CkXxPh1ZwAXPzwl2m2OA3oQYrb-9rfxugaAaTwvGIMb6-7xa1St_9jxB3ZwoSojXv87lO0ywb-ynyev_OyZxTh2ajsqOipYSVJReCG7RcXJkdT59XBSFYtixwjK3mjsaHqJQ-TmjQ9QkvNdWQsJS0sBbpEHC19O3v_PK1JbyI9wqzj8k-lxH). A baixo temos um floxograma feito com esta ferramenta :
+
+```mermaid
+
+graph TD
+
+A[ Inicio ]-->B[ Entrar com valor ]
+B --> C{Valor elevado ? }
+C -->|Sim| D[Não comprar]
+C -->|Não| E[Comprar]
+D -->F|Fim|
+E -->F|Fim|
+
+```
+
