@@ -5,13 +5,14 @@
 ![ imagem qualquer ](Marker.gif)
 ## 💻 Sobre o projeto
 :smiley: Tudo que você  precisa saber sobre essa linguagem de marcação !
+
 Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
    * [Sintaxe Básica](#Sintaxe-Básica)
-   * [Imagens e Diagramas](#(Imagens-e-Diagramas))
-   * [Tecnologias](#tecnologias)
+   * [Imagens e Diagramas](#Imagens-e-Diagramas)
+  
 <!--te-->
 
 ## Sintaxe Básica
@@ -245,3 +246,4 @@ graph TD
 
 ```
 
+Feito com ❤️ por Ray Basilio 👋🏽 [Entre em contato!](https://www.linkedin.com/in/ray-basilio-engenheiro-de-controle-e-automacao/)
