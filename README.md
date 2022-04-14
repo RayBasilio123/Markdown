@@ -8,9 +8,9 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](##Sobre)
-   * [Sintaxe Básica](#Sintaxe_Básica)
-   * [Imagens e Diagramas](#(Imagens_e_Diagramas))
+   * [Sobre](#Sobre)
+   * [Sintaxe Básica](#Sintaxe-Básica)
+   * [Imagens e Diagramas](#(Imagens-e-Diagramas))
    * [Tecnologias](#tecnologias)
 <!--te-->
 
