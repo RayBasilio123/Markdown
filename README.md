@@ -82,4 +82,8 @@ Para instalar essa lib rode
 
 [ link para algum lugar ](http://github.com "Github" ) 
 
-![ imagem qualquer ](https://support-assets.github.com/assets/mona-find-b02e43c310007cc42df598385d6ba679346bd8fcf82b9406d574464af9691423.svg)
+<!-- Imagens - Gifs  -->
+
+Quick Chat for iOS is a real time chat app written in Swift 5 using Firebase.[ link para o repositorio ](https://github.com/aslanyanhaik/Quick-Chat "Quick Chat for iOS" ) 
+
+![ imagem qualquer ]( https://raw.githubusercontent.com/aslanyanhaik/Quick-Chat/master/screenshot.gif )
