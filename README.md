@@ -82,4 +82,4 @@ Para instalar essa lib rode
 
 [ link para algum lugar ](http://github.com "Github" ) 
 
-![ imagem qualquer ](https://user-images.githubusercontent.com/58826286/120250056-2ee89280-c253-11eb-96f9-c5f32520ba73.png)
+![ imagem qualquer ](https://support-assets.github.com/assets/mona-find-b02e43c310007cc42df598385d6ba679346bd8fcf82b9406d574464af9691423.svg)
