@@ -2,7 +2,7 @@
 
 
 :smiley: Tudo que você  precisa saber sobre essa linguagem de marcação !
-
+![ imagem qualquer ](Marker.gif)
 
 <!-- Headings  -->
 
@@ -224,12 +224,11 @@ Para criar diagramas e visualizações usando texto e código utilizamos o [Merm
 
 graph TD
 
-A[ Inicio ]-->B[ Entrar com valor ]
-B --> C{Valor elevado ? }
-C -->|Sim| D[Não comprar]
-C -->|Não| E[Comprar]
-D -->F|Fim|
-E -->F|Fim|
+    A[ Inicio ]-->B[ Entrar com valor ]
+    B --> C{Valor elevado ? }
+    C -->|Sim| D[Não comprar]
+    C -->|Não| E[Comprar]
+    
 
 ```
 
